@@ -9,7 +9,7 @@ A multi-agent, agentic AI system for automated student answer grading — built 
 
 ## 🌐 Live Demo
 
-**App:** `https://your-app-name.streamlit.app` *(replace with your deployed URL)*
+**App:** https://assessmentgrade-fe8k5vkfc4gzjw4xujbxgr.streamlit.app/
 
 ---
 
